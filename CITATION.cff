@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Borges"
+  given-names: "Mateus"
+- family-names: "Izbicki"
+  given-names: "Rafael"
+- family-names: "do Canto Hubert Junior"
+  given-names: "Paulo"
+title: "Nonparametric Modeling of Weather-Induced Delays"
+date-released: 2024-08-01
+url: "https://github.com/mborgesss/nonparametric-modeling-weather-delays"
